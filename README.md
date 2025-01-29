@@ -3,9 +3,11 @@
 This repository contains an analysis and predictive modeling project comparing classification algorithms on Portuguese banking data. The objective is to identify potential subscribers to term deposits during telemarketing campaigns using multiple machine learning models.
 
 ## Project Structure
-	•	Jupyter Notebook: Comparing Classifiers on Portuguese Banking Data.ipynb contains all the code, analysis, and results. Jupyter notebook link: https://github.com/DenaliCarpenter/Comparing-Classifiers-with-Banking-Data/blob/main/Comparing%20Classifiers%20on%20Portuguese%20Banking%20Data.ipynb
-	•	Data: Includes preprocessed and cleaned data with detailed steps for imputation, outlier handling, and feature transformations. The raw data can be found in the data folder.
-	•	README: Provides an overview of the project, methods, and key findings.
+Jupyter Notebook: Comparing Classifiers on Portuguese Banking Data.ipynb contains all the code, analysis, and results. Jupyter notebook link: https://github.com/DenaliCarpenter/Comparing-Classifiers-with-Banking-Data/blob/main/Comparing%20Classifiers%20on%20Portuguese%20Banking%20Data.ipynb
+
+Data: Includes preprocessed and cleaned data with detailed steps for imputation, outlier handling, and feature transformations. The raw data can be found in the data folder.
+
+README: Provides an overview of the project, methods, and key findings.
 
 ## Summary of Findings
 
