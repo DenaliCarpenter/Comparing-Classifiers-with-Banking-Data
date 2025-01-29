@@ -1,4 +1,4 @@
-Comparing Classification Algorithms
+# Comparing Classification Algorithms
 
 This repository contains an analysis and predictive modeling project comparing classification algorithms on Portuguese banking data. The objective is to identify potential subscribers to term deposits during telemarketing campaigns using multiple machine learning models.
 
