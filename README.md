@@ -3,7 +3,7 @@ Comparing Classification Algorithms
 This repository contains an analysis and predictive modeling project comparing classification algorithms on Portuguese banking data. The objective is to identify potential subscribers to term deposits during telemarketing campaigns using multiple machine learning models.
 
 Project Structure
-	•	Jupyter Notebook: Comparing Classifiers on Portuguese Banking Data.ipynb contains all the code, analysis, and results.
+	•	Jupyter Notebook: Comparing Classifiers on Portuguese Banking Data.ipynb contains all the code, analysis, and results. (https://github.com/DenaliCarpenter/Comparing-Classifiers-with-Banking-Data/blob/main/Comparing%20Classifiers%20on%20Portuguese%20Banking%20Data.ipynb)
 	•	Data: Includes preprocessed and cleaned data with detailed steps for imputation, outlier handling, and feature transformations. The raw data can be found in the data folder.
 	•	README: Provides an overview of the project, methods, and key findings.
 
@@ -40,7 +40,4 @@ Modeling and Results
 Recommendations
 	1.	Model Selection: Use the Decision Tree model for initial implementation. Explore Random Forest for further improvement.
 	2.	Feature Engineering: Refine the dataset by focusing on features showing strong correlations or statistical significance.
-	3.	Next Steps:
-	•	Experiment with SMOTE to address class imbalance.
-	•	Optimize hyperparameters for all models through GridSearchCV.
-	•	Validate results using additional performance metrics.
+	3.	Experiment with SMOTE to address class imbalance.
